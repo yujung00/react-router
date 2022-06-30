@@ -2,14 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2e824fd9-828f-428e-820a-0d89a085c9d7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/About.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/Home.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/Profile.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/Article.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/Articles.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/client/Root.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/client/Root.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/shared/App.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/Home.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/Home.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,7 +45,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1656550618620</updated>
-      <workItem from="1656550620486" duration="2926000" />
+      <workItem from="1656550620486" duration="3792000" />
     </task>
     <servers />
   </component>
@@ -60,9 +57,9 @@
       <screen x="-1080" y="-333" width="1080" height="1895" />
     </state>
     <state x="-802" y="365" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/-1080.-333.1080.1895/1792.25.1920.1055/0.25.1792.1027@-1080.-333.1080.1895" timestamp="1656551126006" />
-    <state x="-875" y="111" width="670" height="676" key="search.everywhere.popup" timestamp="1656553128596">
+    <state x="-875" y="111" width="670" height="676" key="search.everywhere.popup" timestamp="1656553978842">
       <screen x="-1080" y="-333" width="1080" height="1895" />
     </state>
-    <state x="-875" y="111" width="670" height="676" key="search.everywhere.popup/-1080.-333.1080.1895/1792.25.1920.1055/0.25.1792.1029@-1080.-333.1080.1895" timestamp="1656553128596" />
+    <state x="-875" y="111" width="670" height="676" key="search.everywhere.popup/-1080.-333.1080.1895/1792.25.1920.1055/0.25.1792.1029@-1080.-333.1080.1895" timestamp="1656553978842" />
   </component>
 </project>
